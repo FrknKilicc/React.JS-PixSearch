@@ -1,0 +1,22 @@
+
+.App{
+  margin: 1.25rem;
+}
+
+.search-header{
+  border: 1px solid grey;
+  border-radius: 20px;
+  padding: 20px;
+}
+.search-header form{
+  display: flex;
+  flex-direction: column;
+}
+.image-list{
+  columns: 15.625rem 6;
+  column-gap: .625rem;
+}
+.img-list{
+  width: 100%;
+  margin-bottom: .625rem;
+}
